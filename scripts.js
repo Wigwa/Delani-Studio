@@ -9,3 +9,14 @@ $(document).ready(function(){
     });
   });
   
+  $(document).ready(function() {
+    $(".design").click(function() {
+      $(".design").slideDown('1500').hide('1000');
+      $(".design-content").show('1500');
+    });
+
+    $(".design-content").click(function() {
+      $(".design-content").slideUp('1500');
+      $(".design").slideDown('1500');
+    });
+  });
