@@ -76,7 +76,7 @@ $(document).ready(function(){
     }).mouseout(function(){
       $(".par7").hide();
     });
-    $("wrk8").mouseover(function(){
+    $(".wrk8").mouseover(function(){
       $(".par8").show();
     }).mouseout(function(){
       $(".par8").hide();
