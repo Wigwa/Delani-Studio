@@ -14,3 +14,11 @@
     height: 500px;
     padding-top: 50px;
 }
+.contact{
+    background-image: url(c_image.jpg);
+    background-size: cover;
+    color: aliceblue;
+}
+body{
+    text-align: center;
+}
