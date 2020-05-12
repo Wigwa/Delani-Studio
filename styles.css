@@ -33,3 +33,18 @@ body{
   #MERGE0{
     width: 30%;
   }
+  #comment{
+    margin-left: 20%;
+    width: 60%;
+  }
+  button{
+    margin-left: 20%;
+    padding-bottom: 30px;
+    margin-bottom: 20px;  
+  }
+  input[type=text],input[type=email],#comment{
+    background-color: transparent;
+    font-size: 20px;
+    font-family: 'Copse', serif;
+    color: white;
+  }
