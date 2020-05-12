@@ -22,3 +22,14 @@
 body{
     text-align: center;
 }
+.input{
+    flex-direction: column-reverse;
+}
+#MERGE1{
+    width: 30%;
+    margin-left: 18%;
+    margin-right: 30px;
+  }
+  #MERGE0{
+    width: 30%;
+  }
