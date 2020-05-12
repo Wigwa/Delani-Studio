@@ -1,0 +1,9 @@
+#home {
+    background-image: url(h_img.jpg);
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+    margin-top: 10px;
+    padding-top: 50px;
+    color: aliceblue;
+}
