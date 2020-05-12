@@ -7,3 +7,10 @@
     padding-top: 50px;
     color: aliceblue;
 }
+.services {
+    background-image: url(s_image.jpg);
+    background-size: cover;
+    color: aliceblue;
+    height: 500px;
+    padding-top: 50px;
+}
