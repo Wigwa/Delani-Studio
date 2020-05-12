@@ -20,3 +20,14 @@ $(document).ready(function(){
       $(".design").slideDown('1500');
     });
   });
+
+  $(document).ready(function() {
+    $(".managment").click(function() {
+      $(".managment").slideDown('1500').hide('1000');
+      $(".managment-content").show('1500');
+    });
+    $(".managment-content").click(function() {
+      $(".managment-content").slideUp('1500');
+      $(".managment").slideDown('1500');
+    });
+  });
